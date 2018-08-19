@@ -1,0 +1,2 @@
+# elastic-daily
+Elastic Daily
