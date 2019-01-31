@@ -1,0 +1,94 @@
+### Elastic 日报 第 496 期 (2019-01-01)
+
+1.ELK 在 Nginx 运维监控中的使用
+http://t.cn/EbuMzr1
+
+2.从分布式系统设计看 Elasticsearch 集群及数据结构
+http://t.cn/EbuIFh6
+
+3.Elasticsearch Graphite 与 InfluxDB 系统属性比较
+http://t.cn/Ebuh1js
+
+btw：2019 年的第一天，Elastic 中文社区祝大家元旦快乐，把时间花在美好的事物上，常来常惦记 Elasticsearch 中文社区。
+
+编辑：叮咚光军
+
+归档：https://elasticsearch.cn/article/6313
+
+订阅：https://tinyletter.com/elastic-daily
+
+
+
+### Elastic 日报 第 497 期 (2019-01-02)
+
+1.快手万亿级实时 OLAP 平台的建设与实践
+http://t.cn/E4439oI
+ 
+2.引入 ELK 前需要知道的"坑"(上)
+http://t.cn/EbggZrv
+
+3.公司 Elasticsearch 升级带来的坑怎么填
+http://t.cn/EbguZUx
+ 
+编辑：江水
+
+归档：https://elasticsearch.cn/article/6314
+
+订阅：https://tinyletter.com/elastic-daily
+
+
+
+### Elastic 日报 第 498 期 (2019-01-03)
+
+1.HotThreads 源码分析
+http://t.cn/EbF0saD
+
+2.kubernetes 日志架构
+http://t.cn/EbFOLtD
+
+3.ee-outliers 用于检测 Elasticsearch 事件中的异常值的开源框架
+http://t.cn/EbxWUsD
+
+编辑：金桥
+
+归档：https://elasticsearch.cn/article/6315
+
+订阅：https://tinyletter.com/elastic-daily
+
+
+
+### Elastic 日报 第 499 期 (2019-01-04)
+
+1.Elasticsearch MongoDB 和 Hadoop 选型指南
+http://t.cn/EG7Knck
+
+2.使用 ee-outliers 和 Elasticsearch 检测可疑子进程
+http://t.cn/E4Q1lLF
+
+3.curator 工具使用解读
+http://t.cn/EG79Pug
+
+编辑：铭毅天下
+
+归档：https://elasticsearch.cn/article/6316
+
+订阅：https://tinyletter.com/elastic-daily
+
+
+
+### Elastic 日报 第 500 期 (2019-01-05)
+
+1.科普篇 ELK(ElasticSearch Logstash Kibana) 搭建日志分析平台
+http://t.cn/EGMUSm2
+
+2.怎么用 vue 和 ElasticSearch 构建图书搜索应用
+http://t.cn/EGMUO9j
+
+3.一周热点 罗振宇 2018 "时间的朋友" 跨年演讲未删减全文
+http://t.cn/EGMU8Se
+
+编辑：bsll
+
+归档：https://elasticsearch.cn/article/6317
+
+订阅：https://tinyletter.com/elastic-daily
